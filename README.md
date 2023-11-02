@@ -1,4 +1,4 @@
-# apple1-toos
+# apple1-tools
 
 - `bin2prg` converts a binary file to a .PRG file
 - `pdos2prg` converts a PDOS file to a .PRG file
