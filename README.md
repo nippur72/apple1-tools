@@ -6,7 +6,7 @@
 - `prg2woz` converts a PRG file to a WOZ monitor text file 
 - `prg2wav` converts a PRG file to WAV file for the ACI cassette interface
 - `wav2prg` converts a WAV (ACI) file to PRG file
-- `mkeprom` makes an emprom file
+- `mkeprom` makes an eprom file
 
 ## Installation
 
