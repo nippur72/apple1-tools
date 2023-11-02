@@ -8,4 +8,9 @@
 - `wav2prg` converts a WAV (ACI) file to PRG file
 - `mkeprom` makes an emprom file
 
+## Installation
+
+```
+npm i -g apple1-tools
+```
 
